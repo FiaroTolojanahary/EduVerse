@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../../domain/entities/course.dart';
-import '../../presentation/state/eduverse_state.dart';
+import '../state/eduverse_state.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import '../../presentation/state/eduverse_state.dart';
+import '../state/eduverse_state.dart';
 import 'main_shell.dart';
 
 class AuthScreen extends StatelessWidget {

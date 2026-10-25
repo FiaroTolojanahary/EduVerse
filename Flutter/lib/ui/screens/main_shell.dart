@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import '../../presentation/state/eduverse_state.dart';
-import '../../presentation/screens/eduverse_screens.dart';
+import '../state/eduverse_state.dart';
+import 'eduverse_screens.dart';
 
 class MainShell extends StatelessWidget {
   const MainShell({super.key});
